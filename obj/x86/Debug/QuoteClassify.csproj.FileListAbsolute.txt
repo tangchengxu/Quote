@@ -1,0 +1,55 @@
+C:\Users\tangcheng.xu\Desktop\DI版本\QuoteClassify\bin\Debug\QuoteClassify.exe.config
+C:\Users\tangcheng.xu\Desktop\DI版本\QuoteClassify\bin\Debug\QuoteClassify.exe
+C:\Users\tangcheng.xu\Desktop\DI版本\QuoteClassify\bin\Debug\QuoteClassify.pdb
+C:\Users\tangcheng.xu\Desktop\DI版本\QuoteClassify\obj\x86\Debug\QuoteClassify.csprojResolveAssemblyReference.cache
+C:\Users\tangcheng.xu\Desktop\DI版本\QuoteClassify\obj\x86\Debug\QuoteClassify.form.QuoteModForm.resources
+C:\Users\tangcheng.xu\Desktop\DI版本\QuoteClassify\obj\x86\Debug\QuoteClassify.form.ContrastForm.resources
+C:\Users\tangcheng.xu\Desktop\DI版本\QuoteClassify\obj\x86\Debug\QuoteClassify.ManagerForm.resources
+C:\Users\tangcheng.xu\Desktop\DI版本\QuoteClassify\obj\x86\Debug\QuoteClassify.Properties.Resources.resources
+C:\Users\tangcheng.xu\Desktop\DI版本\QuoteClassify\obj\x86\Debug\QuoteClassify.csproj.GenerateResource.Cache
+C:\Users\tangcheng.xu\Desktop\DI版本\QuoteClassify\obj\x86\Debug\QuoteClassify.exe
+C:\Users\tangcheng.xu\Desktop\DI版本\QuoteClassify\obj\x86\Debug\QuoteClassify.pdb
+C:\Users\tangcheng.xu\Desktop\CSharp\DI版本\QuoteClassify\bin\Debug\QuoteClassify.exe.config
+C:\Users\tangcheng.xu\Desktop\CSharp\DI版本\QuoteClassify\obj\x86\Debug\QuoteClassify.exe
+C:\Users\tangcheng.xu\Desktop\CSharp\DI版本\QuoteClassify\obj\x86\Debug\QuoteClassify.pdb
+C:\Users\tangcheng.xu\Desktop\DI版本\QuoteClassify\obj\x86\Debug\QuoteClassify.form.OnlineQuoteModForm.resources
+C:\Users\tangcheng.xu\Desktop\新建文件夹\DI版本\QuoteClassify\bin\Debug\QuoteClassify.exe.config
+C:\Users\tangcheng.xu\Desktop\新建文件夹\DI版本\QuoteClassify\obj\x86\Debug\QuoteClassify.exe
+C:\Users\tangcheng.xu\Desktop\新建文件夹\DI版本\QuoteClassify\obj\x86\Debug\QuoteClassify.pdb
+C:\Users\hurui\Desktop\DI版本\QuoteClassify\bin\Debug\QuoteClassify.exe.config
+C:\Users\hurui\Desktop\DI版本\QuoteClassify\obj\x86\Debug\QuoteClassify.exe
+C:\Users\hurui\Desktop\DI版本\QuoteClassify\obj\x86\Debug\QuoteClassify.pdb
+C:\Users\hurui\Desktop\DI版本\QuoteClassify\obj\x86\Debug\QuoteClassify.csprojResolveAssemblyReference.cache
+C:\Users\hurui\Desktop\DI版本\QuoteClassify\obj\x86\Debug\QuoteClassify.form.OnlineQuoteModForm.resources
+C:\Users\hurui\Desktop\DI版本\QuoteClassify\obj\x86\Debug\QuoteClassify.form.QuoteModForm.resources
+C:\Users\hurui\Desktop\DI版本\QuoteClassify\obj\x86\Debug\QuoteClassify.form.ContrastForm.resources
+C:\Users\hurui\Desktop\DI版本\QuoteClassify\obj\x86\Debug\QuoteClassify.ManagerForm.resources
+C:\Users\hurui\Desktop\DI版本\QuoteClassify\obj\x86\Debug\QuoteClassify.Properties.Resources.resources
+C:\Users\hurui\Desktop\DI版本\QuoteClassify\obj\x86\Debug\QuoteClassify.csproj.GenerateResource.Cache
+C:\Users\hurui\Desktop\DI版本\QuoteClassify\bin\Debug\QuoteClassify.exe
+C:\Users\hurui\Desktop\DI版本\QuoteClassify\bin\Debug\QuoteClassify.pdb
+C:\Users\tangcheng.xu\Desktop\1\QuoteClassify\bin\Debug\QuoteClassify.exe.config
+C:\Users\tangcheng.xu\Desktop\1\QuoteClassify\obj\x86\Debug\QuoteClassify.exe
+C:\Users\tangcheng.xu\Desktop\1\QuoteClassify\obj\x86\Debug\QuoteClassify.pdb
+C:\Users\tangcheng.xu\Desktop\1\QuoteClassify\bin\Debug\QuoteClassify.exe
+C:\Users\tangcheng.xu\Desktop\1\QuoteClassify\bin\Debug\QuoteClassify.pdb
+C:\Users\tangcheng.xu\Desktop\1\QuoteClassify\obj\x86\Debug\QuoteClassify.csprojResolveAssemblyReference.cache
+C:\Users\tangcheng.xu\Desktop\1\QuoteClassify\obj\x86\Debug\QuoteClassify.form.OnlineQuoteModForm.resources
+C:\Users\tangcheng.xu\Desktop\1\QuoteClassify\obj\x86\Debug\QuoteClassify.form.QuoteModForm.resources
+C:\Users\tangcheng.xu\Desktop\1\QuoteClassify\obj\x86\Debug\QuoteClassify.form.ContrastForm.resources
+C:\Users\tangcheng.xu\Desktop\1\QuoteClassify\obj\x86\Debug\QuoteClassify.ManagerForm.resources
+C:\Users\tangcheng.xu\Desktop\1\QuoteClassify\obj\x86\Debug\QuoteClassify.Properties.Resources.resources
+C:\Users\tangcheng.xu\Desktop\1\QuoteClassify\obj\x86\Debug\QuoteClassify.csproj.GenerateResource.Cache
+C:\Users\tangcheng.xu\Desktop\DI 版本\QuoteClassify\bin\Debug\QuoteClassify.exe.config
+C:\Users\tangcheng.xu\Desktop\DI 版本\QuoteClassify\obj\x86\Debug\QuoteClassify.exe
+C:\Users\tangcheng.xu\Desktop\DI 版本\QuoteClassify\obj\x86\Debug\QuoteClassify.pdb
+C:\Users\tangcheng.xu\Desktop\DI 版本\QuoteClassify\bin\Debug\QuoteClassify.exe
+C:\Users\tangcheng.xu\Desktop\DI 版本\QuoteClassify\bin\Debug\QuoteClassify.pdb
+C:\Users\tangcheng.xu\Desktop\DI 版本\QuoteClassify\obj\x86\Debug\QuoteClassify.csprojResolveAssemblyReference.cache
+C:\Users\tangcheng.xu\Desktop\DI 版本\QuoteClassify\obj\x86\Debug\QuoteClassify.form.OnlineQuoteModForm.resources
+C:\Users\tangcheng.xu\Desktop\DI 版本\QuoteClassify\obj\x86\Debug\QuoteClassify.form.QuoteModForm.resources
+C:\Users\tangcheng.xu\Desktop\DI 版本\QuoteClassify\obj\x86\Debug\QuoteClassify.form.ContrastForm.resources
+C:\Users\tangcheng.xu\Desktop\DI 版本\QuoteClassify\obj\x86\Debug\QuoteClassify.ManagerForm.resources
+C:\Users\tangcheng.xu\Desktop\DI 版本\QuoteClassify\obj\x86\Debug\QuoteClassify.Properties.Resources.resources
+C:\Users\tangcheng.xu\Desktop\DI 版本\QuoteClassify\obj\x86\Debug\QuoteClassify.csproj.GenerateResource.Cache
+C:\Users\tangcheng.xu\Desktop\DI 版本\QuoteClassify\obj\x86\Debug\QuoteClassify.form.MsgInsertForm.resources

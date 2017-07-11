@@ -1,0 +1,11 @@
+C:\Users\tangcheng.xu\Desktop\DI版本\QuoteClassify\bin\Release\QuoteClassify.exe.config
+C:\Users\tangcheng.xu\Desktop\DI版本\QuoteClassify\bin\Release\QuoteClassify.exe
+C:\Users\tangcheng.xu\Desktop\DI版本\QuoteClassify\bin\Release\QuoteClassify.pdb
+C:\Users\tangcheng.xu\Desktop\DI版本\QuoteClassify\obj\x86\Release\QuoteClassify.csprojResolveAssemblyReference.cache
+C:\Users\tangcheng.xu\Desktop\DI版本\QuoteClassify\obj\x86\Release\QuoteClassify.form.QuoteModForm.resources
+C:\Users\tangcheng.xu\Desktop\DI版本\QuoteClassify\obj\x86\Release\QuoteClassify.form.ContrastForm.resources
+C:\Users\tangcheng.xu\Desktop\DI版本\QuoteClassify\obj\x86\Release\QuoteClassify.ManagerForm.resources
+C:\Users\tangcheng.xu\Desktop\DI版本\QuoteClassify\obj\x86\Release\QuoteClassify.Properties.Resources.resources
+C:\Users\tangcheng.xu\Desktop\DI版本\QuoteClassify\obj\x86\Release\QuoteClassify.csproj.GenerateResource.Cache
+C:\Users\tangcheng.xu\Desktop\DI版本\QuoteClassify\obj\x86\Release\QuoteClassify.exe
+C:\Users\tangcheng.xu\Desktop\DI版本\QuoteClassify\obj\x86\Release\QuoteClassify.pdb

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<Src host="172.16.75.81" dbName="qqinfo" userName="root" passWord="sumscope">
+	</Src>
+	<Dis host="172.16.75.81" dbName="qqinfo" userName="root" passWord="sumscope">
+	</Dis>
+</configuration>
